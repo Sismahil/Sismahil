@@ -3,7 +3,7 @@
 <<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Ticketing System)</b>
-  - [osTicket: Prerequisites and installation)(https://github.com/Sismahil/Sismahil/edit/main/README.md)
+  - [osTicket: Prerequisites and installation)(https://github.com/Sismahil/osticket-prereqs)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
