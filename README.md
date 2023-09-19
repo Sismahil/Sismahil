@@ -10,7 +10,10 @@
   - [Installing Active Directory in Azure](https://github.com/ErnestoAPantoja/install-ad)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Sismahil/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Sismahil/azure-network-protocols) 
- 
+- <b>Microsoft Azure Defender</b>
+  - [Alert Validation](https://github.com/Sismahil/Alert-validation)
+  - [Alert Suppresion](https://github.com/Sismahil/Alert-Suppression)
+    
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Samuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
