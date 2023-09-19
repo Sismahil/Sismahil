@@ -1,6 +1,6 @@
 ### Hi there, My name is Samuel. Am an IT Professional and Security Analyst
 
-<<h2>👨‍💻 Information Technology Projects:</h2>
+<<h2>👨‍💻 Information Technology & CyberSecurity Projects:</h2>
 
 - <b>osTicket (Ticketing System)</b>
   - [osTicket: Prerequisites and installation](https://github.com/Sismahil/osticket-prereqs)
