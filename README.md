@@ -16,6 +16,9 @@
     
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Samuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+git config user.email "tomiwa73414@gmail.com"
 
-[linkedin]: https://linkedin.com/in/samuel-ismahil-26125a1b6
+$ git config user.email
+Sismahil@email.essex.edu
+
+
